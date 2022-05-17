@@ -1,0 +1,4 @@
+# Contains development specific requirements and imports common requirements
+nose2==0.6.0
+pylint==2.11.1
+-r common.txt
